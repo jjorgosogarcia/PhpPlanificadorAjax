@@ -1,0 +1,17 @@
+.tabla, .tabla2{
+    border: 1px;
+    background-color: #FFFFCC;
+    border-collapse: collapse;
+    color: #000;
+    width: 100%;    
+}
+
+td, th{
+    padding: 3px;  
+        border:1px solid #FFCC00;
+    text-align: center;
+}
+
+.tabla2{
+    width: 40%;    
+}
